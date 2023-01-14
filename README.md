@@ -14,13 +14,6 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 4. Then print the program with correct form then the output will display
 
 ## Program:
-```
-/*
-Program to find the solution of a matrix using Gaussian Elimination.
-Developed by: YUVARAJ.S
-RegisterNumber: 22008589
-*/
-
 '''Program to solve a matrix using Gaussian elimination with partial pivoting.
 Developed by: YUVARAJ.S
 RegisterNumber: 22008589
